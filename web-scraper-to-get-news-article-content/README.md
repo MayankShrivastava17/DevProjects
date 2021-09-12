@@ -1,6 +1,6 @@
 <div align="center"><h1>CNN Web Scraper</h1></div>
 
-This repo for the *[web scrapper to get news article content](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe/get-started)*, from [Code Mentor](https://www.codementor.io/).
+This repo for the challenge *[web scrapper to get news article content](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe/get-started)*, by [Code Mentor](https://www.codementor.io/).
 
 ## How to run 
 
