@@ -73,6 +73,6 @@ result = json.loads(
 testing the json format
 -----------------------
 print(type(result))
-'''
 print(result["title"])
 print(result["content"])
+'''
