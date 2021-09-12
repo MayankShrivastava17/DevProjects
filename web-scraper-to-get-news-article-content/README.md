@@ -30,5 +30,5 @@ python cnn.py <url>
 **example**
 
 ```bash
-python cnn.py https://edition.cnn.com/travel/article/india-beautiful-places/index.html
+python cnn.py https://edition.cnn.com/2021/09/09/tech/india-software-saas-intl-hnk/index.html
 ```
