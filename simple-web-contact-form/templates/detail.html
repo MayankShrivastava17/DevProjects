@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}user-input{% endblock %}
+
+{% block content %}
+
+<br><br>
+<div class="center">
+    <h1 class="subtitle"><strong>Name : </strong>{{name}}</h1>
+</div>
+<br>
+<div class="center">
+    <h1 class="subtitle"><strong>Email : </strong>{{email}}</h1>
+    <!-- <h1 class="title is-1">Email : {{email}}</h1> -->
+</div>
+<br>
+<div class="center">
+    <h1 class="subtitle"><strong>Issue : </strong>{{issue}}</h1>
+    <!-- <h1 class="title is-1">Issue : {{issue}}</h1> -->
+</div>
+<br>
+<div class="center">
+    <h1 class="subtitle"><strong>Message : </strong>{{message}}</h1>
+    <!-- <h1 class="title is-1">Message : {{message}}</h1> -->
+</div>
+<br>
+<div class="buttons center">
+    <button class="button is-light is-link"><a href="/" style="text-decoration: none;"><strong>go back</a></strong>
+    </button>
+</div>
+
+
+{% endblock %}
