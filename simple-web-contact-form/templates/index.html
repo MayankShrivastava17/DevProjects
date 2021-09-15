@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}welcome{% endblock %}
+
+{% block content %}
+
+<h1 class="title is-1 center underline">welcome</h1>
+<form action="/display" method="post">
+    <div class="center">
+        <label for="name" class="subtitle"><strong>name</strong></label>
+    </div>
+    <br>
+    <div class="center">
+        <input type="text" class="input is-danger" id="name" name="name" placeholder="enter your name"
+            style="width:100vh;height:5vh" required>
+    </div>
+    <br>
+    <div class="center">
+        <label for="email" class="subtitle"><strong>email</strong></label>
+    </div>
+    <br>
+    <div class="center">
+        <input type="email" class="input is-danger" id="email" name="email" placeholder="enter your email"
+            style="width:100vh;height:5vh" required>
+    </div>
+    <br>
+    <div class="center">
+        <label for="problem" class="subtitle"><strong>issue</strong></label>
+    </div>
+    <br>
+    <div class="center">
+        <div class="control">
+            <div class="select">
+                <select name="select">
+                    <option value="query">query</option>
+                    <option value="feedback">feedback</option>
+                    <option value="complaint">complaint</option>
+                    <option value="other">other</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="center">
+        <label for="message" class="subtitle"><strong>message</strong></label>
+    </div>
+    <br>
+    <div class="center">
+        <textarea name="message" id="message" placeholder="Please enter your message" required></textarea>
+    </div>
+    <br>
+    <div class="buttons center">
+        <button class="button is-light is-link"><a href="/display"
+                style="text-decoration: none;"><strong>Upload</a></strong>
+        </button>
+    </div>
+</form>
+
+{% endblock %}
