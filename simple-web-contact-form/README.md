@@ -28,4 +28,4 @@ python app.py
 ```
 http://127.0.0.1:5000/
 ```
-- Fill in the required details and upon pressing the submit button you will be forwarded to second page where details given by user is in easy readable format.
+- Fill in the required details and upon pressing the submit button you will be forwarded to <strong>second page where details given by user is in easy readable format.</strong>
