@@ -2,6 +2,7 @@
 
 Project from DevProjects by codementor.
 
+```
 .
 ├── LICENSE
 ├── README.md
@@ -27,3 +28,4 @@ Project from DevProjects by codementor.
     └── requirements.txt
 
 7 directories, 15 files
+```
