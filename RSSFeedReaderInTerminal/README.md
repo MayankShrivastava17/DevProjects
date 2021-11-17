@@ -1,6 +1,6 @@
 <div align="center"><h1>RSS Feed Reader</h1></div>
 
-This repo for the challenge *[rss feed reader in terminal](https://www.codementor.io/)*, by [Code Mentor](https://www.codementor.io/).
+This repo for the challenge *[rss feed reader in terminal](https://www.codementor.io/projects/tool/rss-feed-reader-in-terminal-atx32jp82q)*, by [Code Mentor](https://www.codementor.io/).
 
 
 ## How to Run
