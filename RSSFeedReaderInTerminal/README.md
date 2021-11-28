@@ -33,4 +33,6 @@ Start
 ![Start](https://github.com/MayankShrivastava17/DevProjects/blob/master/RSSFeedReaderInTerminal/screenshot/start.png)
 
 
+Search
 
+![Search](https://github.com/MayankShrivastava17/DevProjects/blob/master/RSSFeedReaderInTerminal/screenshot/rssFeedReader.png)
