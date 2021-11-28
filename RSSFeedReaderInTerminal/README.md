@@ -25,3 +25,12 @@ pip install -r .\requirements.txt
 ```bash
 python main.py
 ```
+
+## Screenshots
+
+Start 
+
+![Start](https://github.com/MayankShrivastava17/DevProjects/blob/master/RSSFeedReaderInTerminal/screenshot/start.png)
+
+
+
